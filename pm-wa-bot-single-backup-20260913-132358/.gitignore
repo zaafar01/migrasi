@@ -1,0 +1,12 @@
+node_modules/
+.env
+
+auth_info_baileys/
+auth_info/
+.baileys_auth/
+
+*.db
+*.sqlite
+*.sqlite3
+
+npm-debug.log*

@@ -1,0 +1,20 @@
+{
+  "name": "pm-wa-bot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "WhatsApp bot untuk tracking Preventive Maintenance mesin CRM/TCR.",
+  "scripts": {
+    "start": "node src/index.js",
+    "import-pm": "node src/import-pm.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^7.0.0-rc14",
+    "better-sqlite3": "^13.0.3",
+    "dotenv": "^16.6.1",
+    "node-cron": "^4.2.1",
+    "pino": "^9.7.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

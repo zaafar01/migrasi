@@ -1,0 +1,37 @@
+BESOK - URUTAN GAS VPS
+
+[ ] VPS aktif
+[ ] Ubuntu 22.04/24.04
+[ ] SSH bisa masuk
+[ ] Node.js 20+
+[ ] npm
+[ ] PM2
+[ ] git
+[ ] Repo pm-wa-bot-v1 sudah di VPS
+[ ] Kode sudah diubah menjadi multi-instance area
+[ ] Folder UTARA
+[ ] Folder PESISIR
+[ ] .env UTARA
+[ ] .env PESISIR
+[ ] Nomor admin UTARA
+[ ] Nomor admin PESISIR
+[ ] JID grup WhatsApp
+[ ] Database UTARA terpisah
+[ ] Database PESISIR terpisah
+[ ] Session WA UTARA terpisah
+[ ] Session WA PESISIR terpisah
+[ ] Import PM UTARA
+[ ] Import PM PESISIR
+[ ] pm list UTARA
+[ ] pm list PESISIR
+[ ] pm done UTARA
+[ ] pm done PESISIR
+[ ] User UTARA tidak bisa mengubah data PESISIR
+[ ] User PESISIR tidak bisa mengubah data UTARA
+[ ] Bot lawan DIAM saat command bukan jatahnya
+[ ] Reminder 00:00 WIB
+[ ] PM2 save
+[ ] PM2 startup
+[ ] Backup database
+
+JANGAN KIRIM PASSWORD VPS / QR / KODE LINKING KE CHAT.
